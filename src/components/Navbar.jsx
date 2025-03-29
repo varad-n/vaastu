@@ -1,6 +1,6 @@
 import { useState } from "react"
 import logo from "../assets/logo.webp"
-import { RiMenu3Line } from "@remixicon/react"
+import { RiMenu3Line,RiCloseLine } from "@remixicon/react"
 import { LINKS } from "../constants"
 
 const Navbar = () => {
